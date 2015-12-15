@@ -1,0 +1,19 @@
+- fields: {pub_date: ! '2015-04-11 20:08:54.846000+00:00', question_text: 'What''s
+      new ?'}
+  model: polls.question
+  pk: 1
+- fields:
+    date_joined: 2015-04-09 20:28:23.540000+00:00
+    email: github@timotheegirard.com
+    first_name: ''
+    groups: []
+    is_active: true
+    is_staff: true
+    is_superuser: true
+    last_login: 2015-04-09 21:24:13.493000+00:00
+    last_name: ''
+    password: pbkdf2_sha256$20000$3dJyrqyxw1gF$/hML4vgmnidBeyJSgjF68Y1t0rDYh9fsVgz3mc3XSOA=
+    user_permissions: []
+    username: timothee
+  model: auth.user
+  pk: 1
